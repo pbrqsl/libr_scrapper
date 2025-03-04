@@ -16,7 +16,6 @@ This was an early dive into web scraping, file handling, and notifications, and 
 ## Technologies Used
 - **Python 3**: Core language.
 - **Selenium**: Web automation and scraping.
-- **BeautifulSoup** (assumed in parsers): HTML parsing.
 - **Logging**: Basic activity tracking.
 - **File I/O**: JSON-like data storage.
 - **Telegram API** (via custom `Message` class): Notifications.
